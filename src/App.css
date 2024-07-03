@@ -39,9 +39,9 @@ body {
 }
 .form .add:hover {
   cursor: pointer;
-  background-color: #121212;
-  border:solid 2px skyblue;
-  color: #f2f2f2;
+  background-color: burlywood;
+  border:solid 2px black;
+  color: #121212;
   font-size: 15px;
 }
 .guest-container {
