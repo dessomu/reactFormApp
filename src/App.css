@@ -33,15 +33,14 @@ body {
   width: 100%;
   padding: 8px;
   border-radius: 8px;
-  border: solid 1px grey;
+   background-color: burlywood;
+  border:solid 2px black;
+  color: #121212;
   margin-top: 10px;
   cursor: pointer;
 }
 .form .add:hover {
   cursor: pointer;
-  background-color: burlywood;
-  border:solid 2px black;
-  color: #121212;
   font-size: 15px;
 }
 .guest-container {
