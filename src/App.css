@@ -81,8 +81,9 @@ body {
   background-color: red;
 }
 .guest button:hover{
-  cursor:pointer;
+  cursor: pointer;
   font-size: 15px;
+}
 .modal {
   position: fixed;
   top: 0px;
