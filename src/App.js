@@ -65,7 +65,7 @@ function App() {
   }  
 
  function updateUserHandler(){
-    const updatedUserDetails = userDetails.map( (userDetail) => {
+    const updatedUserDetails = userDetails.map((userDetail)=> {
         if( userDetail.id === selectedUserId ){
             return {
                 ...userDetail,
